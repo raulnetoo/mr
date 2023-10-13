@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #608a60f3;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2e4e2ef3;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+#profile {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#profile img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+#profile h2 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+#profile p {
+    font-size: 18px;
+}
+
+#portfolio {
+    margin: 20px;
+}
+
+.portfolio-item {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin: 20px 0;
+    overflow: hidden;
+}
+
+.portfolio-item img {
+    width: 100%;
+    height: auto;
+}
+
+.portfolio-item p {
+    padding: 20px;
+}
